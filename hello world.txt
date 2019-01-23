@@ -1,0 +1,14 @@
+<<<<<<< HEAD:hello world.php
+<?php
+ 
+ echo "hello world";
+
+?>
+=======
+<?php
+ 
+ echo "hello world";
+
+echo "hello world 123";
+?>
+>>>>>>> 8aee42021b6495213d687beb4bb410aa650b82e6:hello world.txt
